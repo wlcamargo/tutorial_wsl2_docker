@@ -24,13 +24,7 @@ A finalidade do repositório é mostrar como habilitar o WSL2, instalar o Docker
 
 
 ## 🚀 Features <a name="features"></a>
-- Instalar o WSL e Docker
-
-<p align="center">
-  <a href="" rel="noopener">
-    <img src="https://github.com/wlcamargo/jenkins/blob/main/images/log_jenkins.png" alt="Log">
-  </a>
-</p>
+- Instalar o WSL, Docker e criar aplicações dentro de um contâiner.
 
 
 ## 👨🏽‍🏫 Usage <a name="usage"></a>
